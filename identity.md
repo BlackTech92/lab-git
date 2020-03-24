@@ -1,5 +1,5 @@
 Entrez vos informations ci-dessous:
 
-* first_name:
-* last_name:
-* student_id:
+* first_name:Hermann
+* last_name:XU
+* student_id:789456123
